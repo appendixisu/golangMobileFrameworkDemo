@@ -61,3 +61,6 @@ go get golang.org/x/mobile/bind
 gomobile bind -target ios -o Sources/Verification.xcframework .
 ```
 
+## Conclusions
+
+In 2022, frameworks cannot be used effectively.
