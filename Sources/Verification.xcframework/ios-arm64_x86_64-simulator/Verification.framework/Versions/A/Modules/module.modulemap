@@ -1,0 +1,8 @@
+framework module "Verification" {
+	header "ref.h"
+    header "Verification.objc.h"
+    header "Universe.objc.h"
+    header "Verification.h"
+
+    export *
+}
